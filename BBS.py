@@ -1,5 +1,3 @@
-# ALEX KING
-# CS378
 # Blum-Blum-Shub pseudo
 # use python3 BBS.py to run
 
